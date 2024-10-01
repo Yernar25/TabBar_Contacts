@@ -1,0 +1,42 @@
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "1yB-YT-s65"; */
+"1yB-YT-s65.placeholder" = "Surname";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "5e9-FZ-bBY"; */
+"5e9-FZ-bBY.placeholder" = "Phone number";
+
+/* Class = "UIButton"; configuration.title = "Add"; ObjectID = "87A-iA-3cC"; */
+"87A-iA-3cC.configuration.title" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "87A-iA-3cC"; */
+"87A-iA-3cC.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Contacts"; ObjectID = "9cj-zY-xXt"; */
+"9cj-zY-xXt.title" = "Contacts";
+
+/* Class = "UIButton"; configuration.title = "Edit"; ObjectID = "DUc-7M-R20"; */
+"DUc-7M-R20.configuration.title" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DUc-7M-R20"; */
+"DUc-7M-R20.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Add contact"; ObjectID = "SPi-FN-Vz2"; */
+"SPi-FN-Vz2.title" = "Add contact";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "XAc-lU-vgq"; */
+"XAc-lU-vgq.placeholder" = "Phone number";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "XGi-8P-irA"; */
+"XGi-8P-irA.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Add to favorite"; ObjectID = "mXh-jB-pTm"; */
+"mXh-jB-pTm.text" = "Add to favorite";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "n1m-wA-gGM"; */
+"n1m-wA-gGM.placeholder" = "Name";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "sYY-ef-YKd"; */
+"sYY-ef-YKd.title" = "Favorite";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "uMS-fV-M6j"; */
+"uMS-fV-M6j.placeholder" = "Surname";
